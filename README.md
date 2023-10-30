@@ -1,7 +1,7 @@
 # Db_connection_php
 
 Here I have used php as a server side programming language and MySQL as a database.
-To Send The form data to server side php file we have to specify php file name inside the form tag using action attribute so that this php file will execute when the this form is submitted.
+To Send the form data to server side php file we have to specify php file name inside the form tag using action attribute so that this php file will execute when the this form is submitted.
 
 We have two different method to send the data to sever GET or POST post method is more secure way to send data to the server side.
 
